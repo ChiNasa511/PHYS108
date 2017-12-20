@@ -1,4 +1,9 @@
 % Encrypt and Decrypt a string in MATLAB (Ceasar Cipher)
+% 
+% Chinasa T. Okolo
+% September 21st, 2017
+% PHYS 108
+%
 
 function outputString = encryptString(str, posInt)
 
@@ -124,3 +129,4 @@ freqLookupTable = struct('a', 8.167,'b', 1.492,'c', 2.782,'d',4.253,...
 
 end
 
+% Chinasa T. Okolo
